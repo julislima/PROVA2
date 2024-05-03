@@ -1,0 +1,62 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: black;
+  }
+  
+  .logo{
+    position: relative;
+    z-index: 100;
+    right: 680px;
+    bottom: 47px;
+  }
+
+  .navbar {
+    background-color: rgb(25, 87, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    padding: 0 623px;
+    position: relative;
+    z-index: 2;
+    
+  }
+
+  .navbar-menu{
+        color: white;
+        float:left;
+        text-decoration: none;
+        padding: 10px;
+        border-radius: 30px;
+        transition: 0.3s; 
+  }
+
+  .footer{
+    background-color: rgb(25, 87, 255);
+    color: white;
+    align-items: center;
+    padding: 15px 750px;
+}
+
+.sesi{
+    position: relative;
+    right: 700px;
+    top: 5px;
+}
+
+.texto{
+    position: relative;
+    z-index: 1000;
+    bottom: 50px;
+    font-size: 12px;
+    white-space: nowrap;
+}

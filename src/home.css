@@ -1,0 +1,67 @@
+.titulo{
+    font-size: 35px;
+    font-style: bold 5px;
+    position: relative;
+    bottom: 65px;
+}
+
+.sub-titulo{
+    position: relative;
+    font-size: 17px;
+    bottom: 80px;
+}
+
+.Foto1{
+    position: relative;
+    right: 30px;
+    bottom: 40px;
+}
+
+.Foto2{
+    position: relative;
+    bottom: 40px;
+}
+
+.Foto3{
+    position: relative;
+    left: 30px;
+    bottom: 40px;
+}
+
+.mini1{
+    position: relative;
+    font-size: 25;
+    left: 410px;
+    bottom: 55px;
+}
+
+.mini2{
+    position: relative;
+    font-size: 25;
+    right: 410px;
+    bottom: 120px;
+}
+
+.mini3{
+    position: relative;
+    font-size: 25;
+    bottom: 185px;
+}
+
+.sub1{
+    position: relative;
+    font-size: 15px;
+    left: 410px;
+    bottom: 205px;
+}
+.sub2{
+    position: relative;
+    font-size: 15px;
+    right: 410px;
+    bottom: 240px;
+}
+.sub3{
+    position: relative;
+    font-size: 15px;
+    bottom: 275px;
+}
